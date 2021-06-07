@@ -1,0 +1,51 @@
+body {
+  background-color: black;
+  color: white;
+  text-align: center;
+  font-size: 30px;
+}
+
+table {
+  border: 2px solid white;
+  margin-right: auto;
+  margin-left: auto;
+  text-align: left;
+}
+.code {
+  font-family: monospace;
+  background-color: green;
+  border: 0px;
+}
+
+th {
+  text-align: center;
+  background: seagreen;
+  border: 0px;
+}
+
+td {
+  border: 1px solid white;
+  padding: 5px;
+}
+
+h1 {
+  background-color: seagreen;
+}
+
+img {
+  display: inline-block;
+  margin: 20px;
+}
+
+#block {
+  display: inline-block;
+  margin-bottom: 50px;
+}
+
+.bump {
+  margin-bottom: 180px;
+}
+
+h2 {
+  border: 2px solid white;
+}
